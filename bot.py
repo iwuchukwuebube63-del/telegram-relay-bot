@@ -1,5 +1,3 @@
-import nest_asyncio
-import asyncio
 import logging
 import os
 from telegram import Update
